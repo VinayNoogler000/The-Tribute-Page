@@ -97,3 +97,7 @@ footer {
         text-align: center;
     }
 }
+
+*::selection {
+    background-color: darksalmon;
+}
